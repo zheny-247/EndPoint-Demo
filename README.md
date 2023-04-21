@@ -48,3 +48,9 @@ If you see the below error when running `mvn clean package`, you need to set JAV
 The JAVA_HOME environment variable is not defined correctly,
 this environment variable is needed to run this program.
 ```
+
+## Web App
+This is what you should expect to see.
+
+<img width="941" alt="截屏2023-04-21 下午2 35 18" src="https://user-images.githubusercontent.com/131438451/233738252-fc135435-0784-4027-b761-6589f3eec06f.png">
+
