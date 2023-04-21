@@ -26,7 +26,7 @@ git clone https://github.com/zheny-247/EndPoint-Demo.git
 
 2. Go to the project directory:
 ```
-cd demo
+cd EndPoint-Demo
 ```
 
 3. Build the project using Maven:
